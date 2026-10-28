@@ -1,2 +1,2 @@
 # Student Management Project
-This is a student management website.
+This is project uses html,css.
